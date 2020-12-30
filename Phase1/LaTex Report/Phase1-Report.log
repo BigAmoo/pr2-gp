@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 16:48
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 17:07
 entering extended mode
 **./Phase1-Report.tex
 (Phase1-Report.tex
@@ -850,11 +850,11 @@ Package rerunfilecheck Info: File `Phase1-Report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16209 strings out of 412095
- 298146 string characters out of 2847042
+ 16211 strings out of 412095
+ 298234 string characters out of 2847042
  839182 words of memory out of 3000000
- 35558 multiletter control sequences out of 15000+200000
- 404903 words of font info for 56 fonts, out of 3000000 for 9000
+ 35559 multiletter control sequences out of 15000+200000
+ 404911 words of font info for 57 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  85i,8n,93p,1077b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
 
