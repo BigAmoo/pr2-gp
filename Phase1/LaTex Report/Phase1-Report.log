@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 17:07
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 17:11
 entering extended mode
 **./Phase1-Report.tex
 (Phase1-Report.tex
@@ -845,7 +845,7 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ) [1
 
-] [2] [3] [4] [5] [6] [7] (Phase1-Report.aux)
+] [2] [3] [4] [5] [6] [7] [8] (Phase1-Report.aux)
 Package rerunfilecheck Info: File `Phase1-Report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -858,4 +858,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  85i,8n,93p,1077b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase1-Report.pdf (7 pages).
+Output written on Phase1-Report.pdf (8 pages).
