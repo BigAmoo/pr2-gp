@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 19:40
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 20:32
 entering extended mode
 **./Phase1-Report.tex
 (Phase1-Report.tex
@@ -429,6 +429,47 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
+(C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen169
+\captionmargin@=\dimen170
+\captionwidth=\dimen171
+\caption@tempdima=\dimen172
+\caption@indent=\dimen173
+\caption@parindent=\dimen174
+\caption@hangindent=\dimen175
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count282
+\c@continuedfloat=\count283
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+(C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip99
+\subfigcapskip=\skip100
+\subfigcaptopadj=\dimen176
+\subfigbottomskip=\skip101
+\subfigcapmargin=\dimen177
+\subfiglabelskip=\skip102
+\c@subfigure=\count284
+\c@lofdepth=\count285
+\c@subtable=\count286
+\c@lotdepth=\count287
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg
+)
+\subfig@top=\skip103
+\subfig@bottom=\skip104
+)
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\xepersian.s
 ty
 Package: xepersian 2020/05/17 v23.1 Persian typesetting in XeLaTeX
@@ -440,20 +481,20 @@ Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 .sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count282
-\l__fontspec_language_int=\count283
-\l__fontspec_strnum_int=\count284
-\l__fontspec_tmp_int=\count285
-\l__fontspec_tmpa_int=\count286
-\l__fontspec_tmpb_int=\count287
-\l__fontspec_tmpc_int=\count288
-\l__fontspec_em_int=\count289
-\l__fontspec_emdef_int=\count290
-\l__fontspec_strong_int=\count291
-\l__fontspec_strongdef_int=\count292
-\l__fontspec_tmpa_dim=\dimen169
-\l__fontspec_tmpb_dim=\dimen170
-\l__fontspec_tmpc_dim=\dimen171
+\l__fontspec_script_int=\count288
+\l__fontspec_language_int=\count289
+\l__fontspec_strnum_int=\count290
+\l__fontspec_tmp_int=\count291
+\l__fontspec_tmpa_int=\count292
+\l__fontspec_tmpb_int=\count293
+\l__fontspec_tmpc_int=\count294
+\l__fontspec_em_int=\count295
+\l__fontspec_emdef_int=\count296
+\l__fontspec_strong_int=\count297
+\l__fontspec_strongdef_int=\count298
+\l__fontspec_tmpa_dim=\dimen178
+\l__fontspec_tmpb_dim=\dimen179
+\l__fontspec_tmpc_dim=\dimen180
  (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 )
@@ -462,43 +503,43 @@ Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\xepersian-p
 ersiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count293
-\XePersian@y=\count294
-\XePersian@m=\count295
-\XePersian@d=\count296
-\XePersian@latini=\count297
-\XePersian@persiani=\count298
-\XePersian@latinii=\count299
-\XePersian@persianii=\count300
-\XePersian@latiniii=\count301
-\XePersian@persianiii=\count302
-\XePersian@latiniv=\count303
-\XePersian@persianiv=\count304
-\XePersian@latinv=\count305
-\XePersian@persianv=\count306
-\XePersian@latinvi=\count307
-\XePersian@persianvi=\count308
-\XePersian@latinvii=\count309
-\XePersian@persianvii=\count310
-\XePersian@latinviii=\count311
-\XePersian@persianviii=\count312
-\XePersian@latinix=\count313
-\XePersian@persianix=\count314
-\XePersian@latinx=\count315
-\XePersian@persianx=\count316
-\XePersian@latinxi=\count317
-\XePersian@persianxi=\count318
-\XePersian@latinxii=\count319
-\XePersian@persianxii=\count320
-\XePersian@persianxiii=\count321
-\XePersian@temp=\count322
-\XePersian@temptwo=\count323
-\XePersian@tempthree=\count324
-\XePersian@yModHundred=\count325
-\XePersian@thirtytwo=\count326
-\XePersian@dn=\count327
-\XePersian@sn=\count328
-\XePersian@mminusone=\count329
+\XePersian@i=\count299
+\XePersian@y=\count300
+\XePersian@m=\count301
+\XePersian@d=\count302
+\XePersian@latini=\count303
+\XePersian@persiani=\count304
+\XePersian@latinii=\count305
+\XePersian@persianii=\count306
+\XePersian@latiniii=\count307
+\XePersian@persianiii=\count308
+\XePersian@latiniv=\count309
+\XePersian@persianiv=\count310
+\XePersian@latinv=\count311
+\XePersian@persianv=\count312
+\XePersian@latinvi=\count313
+\XePersian@persianvi=\count314
+\XePersian@latinvii=\count315
+\XePersian@persianvii=\count316
+\XePersian@latinviii=\count317
+\XePersian@persianviii=\count318
+\XePersian@latinix=\count319
+\XePersian@persianix=\count320
+\XePersian@latinx=\count321
+\XePersian@persianx=\count322
+\XePersian@latinxi=\count323
+\XePersian@persianxi=\count324
+\XePersian@latinxii=\count325
+\XePersian@persianxii=\count326
+\XePersian@persianxiii=\count327
+\XePersian@temp=\count328
+\XePersian@temptwo=\count329
+\XePersian@tempthree=\count330
+\XePersian@yModHundred=\count331
+\XePersian@thirtytwo=\count332
+\XePersian@dn=\count333
+\XePersian@sn=\count334
+\XePersian@mminusone=\count335
 )
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\xepersian-m
 athsdigitspec.sty
@@ -538,21 +579,21 @@ Package: bidi 2020/05/17 v36.3 Bidirectional typesetting in plain TeX and LaTeX
 Package: biditools 2020/05/13 v2 Programming tools for bidi package
 \@bidi@envbody=\toks24
 \@bidi@emptytoks=\toks25
-\bidi@poscount=\count330
+\bidi@poscount=\count336
 
 
 Package biditools Warning: Patching `\enddocument' failed on input line 916.
 
-\bidi@tempcountb=\count331
+\bidi@tempcountb=\count337
 \bidi@temptoksa=\toks26
 \bidi@temptoksb=\toks27
-\bidi@dummies=\count332
+\bidi@dummies=\count338
 \bidi@are@these@correct=\toks28
 \bidi@toks@lista=\toks29
 \bidi@toks@listb=\toks30
-\bidi@stack@length=\count333
+\bidi@stack@length=\count339
 \bidi@empty@stack=\toks31
-\bidi@looprepeat@depth=\count334
+\bidi@looprepeat@depth=\count340
 ) (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
 Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
@@ -561,7 +602,7 @@ Package zref Info: New property list: main on input line 764.
 Package zref Info: New property: default on input line 765.
 Package zref Info: New property: page on input line 766.
 )
-\c@abspage=\count335
+\c@abspage=\count341
 Package zref Info: New property: abspage on input line 66.
 )
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
@@ -572,7 +613,7 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 \XKV@toks=\toks32
 \XKV@tempa@toks=\toks33
 )
-\XKV@depth=\count336
+\XKV@depth=\count342
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
@@ -582,13 +623,13 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' f
 or XeTeX engine
 \bidi@n@everypar=\toks34
-\bidi@column@check@number=\count337
+\bidi@column@check@number=\count343
 
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\footnote-xetex-b
 idi.def
 File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count338
+\c@footdir@label=\count344
 \footdir@toks=\toks35
 )
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\article-xetex-bi
@@ -600,6 +641,16 @@ cle class for XeTeX engine
 x-bidi.def
 File: algorithm2e-xetex-bidi.def 2018/09/23 v0.2 bidi adaptations for algorithm
 2e package for XeTeX engine
+)
+(C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\caption-xetex-bi
+di.def
+File: caption-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for caption packa
+ge for XeTeX engine
+)
+(C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\caption3-xetex-b
+idi.def
+File: caption3-xetex-bidi.def 2013/04/01 v0.1 bidi adaptations for caption3 pac
+kage for XeTeX engine
 )
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\color-xetex-bidi
 .def
@@ -644,6 +695,11 @@ kage for XeTeX engine
 File: array-xetex-bidi.def 2015/11/07 v0.3 bidi adaptations for array package f
 or XeTeX engine
 )
+(C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\subfigure-xetex-
+bidi.def
+File: subfigure-xetex-bidi.def 2010/03/01 v0.1 bidi adaptations for subfigure p
+ackage for XeTeX engine
+)
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\ragged2e-xetex-b
 idi.def
 File: ragged2e-xetex-bidi.def 2018/10/17 v0.3 bidi adaptations for ragged2e pac
@@ -654,7 +710,7 @@ ex-bidi.def
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count339
+\bidi@digits=\count345
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -681,9 +737,9 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count340
-\xepersian@ilg=\dimen172
-\xepersian@strutilg=\dimen173
+\xepersian@tcl=\count346
+\xepersian@ilg=\dimen181
+\xepersian@strutilg=\dimen182
 
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\loadingorde
 r-xepersian.def
@@ -826,7 +882,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count341
+\c@section@level=\count347
 )
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
@@ -835,6 +891,9 @@ LaTeX Info: Redefining \nameref on input line 16.
 \@outlinefile=\write3
 \openout3 = `Phase1-Report.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
 File: images/shariflogo.jpg Graphic file (type bmp)
 <images/shariflogo.jpg>
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -848,24 +907,29 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ) [1
 
-] [2] [3] [4] [5] [6] [7]
+] (Phase1-Report.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 238.
+(Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 238.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 238.
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write4
+\openout4 = `Phase1-Report.toc'.
+
+ [2] [3] [4] [5] [6] [7] [8] [9]
 File: images/screenshot_1.png Graphic file (type bmp)
 <images/screenshot_1.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 245--246
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 249--250
  [][][][][] 
  []
 
 File: images/screenshot_2.png Graphic file (type bmp)
 <images/screenshot_2.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 252--253
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 256--257
  [][][][][] 
  []
 
@@ -875,24 +939,24 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: images/Burn Down Chart.png Graphic file (type bmp)
 <images/Burn Down Chart.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 260--261
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 264--265
  [][][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8] [9] (Phase1-Report.aux)
+[10] [11] (Phase1-Report.aux)
 Package rerunfilecheck Info: File `Phase1-Report.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 51E733E88D5E717502A72D482586176A;2611.
  ) 
 Here is how much of TeX's memory you used:
- 16264 strings out of 412095
- 299202 string characters out of 2847042
- 840386 words of memory out of 3000000
- 35598 multiletter control sequences out of 15000+200000
- 407655 words of font info for 67 fonts, out of 3000000 for 9000
+ 17635 strings out of 412095
+ 325671 string characters out of 2847042
+ 864492 words of memory out of 3000000
+ 36944 multiletter control sequences out of 15000+200000
+ 407679 words of font info for 70 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 85i,8n,93p,1077b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 85i,8n,93p,1077b,457s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase1-Report.pdf (9 pages).
+Output written on Phase1-Report.pdf (11 pages).
