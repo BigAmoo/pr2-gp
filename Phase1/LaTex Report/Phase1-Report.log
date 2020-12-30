@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 17:11
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 17:59
 entering extended mode
 **./Phase1-Report.tex
 (Phase1-Report.tex
@@ -426,6 +426,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip98
 )
+(C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\xepersian.s
 ty
 Package: xepersian 2020/05/17 v23.1 Persian typesetting in XeLaTeX
@@ -845,17 +848,17 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ) [1
 
-] [2] [3] [4] [5] [6] [7] [8] (Phase1-Report.aux)
+] [2] [3] [4] [5] [6] [7] (Phase1-Report.aux)
 Package rerunfilecheck Info: File `Phase1-Report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16211 strings out of 412095
- 298234 string characters out of 2847042
- 839182 words of memory out of 3000000
- 35559 multiletter control sequences out of 15000+200000
- 404911 words of font info for 57 fonts, out of 3000000 for 9000
+ 16225 strings out of 412095
+ 298528 string characters out of 2847042
+ 839386 words of memory out of 3000000
+ 35569 multiletter control sequences out of 15000+200000
+ 404919 words of font info for 58 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  85i,8n,93p,1077b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase1-Report.pdf (8 pages).
+Output written on Phase1-Report.pdf (7 pages).
