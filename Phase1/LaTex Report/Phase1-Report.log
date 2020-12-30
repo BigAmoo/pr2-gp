@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 14:07
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 16:13
 entering extended mode
 **./Phase1-Report.tex
 (Phase1-Report.tex
@@ -848,27 +848,17 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 ] [2] [3]
 Missing character: There is no • in font B Nazanin/OT:script=arab;language=dflt
 ;mapping=persian-tex-text;!
-Missing character: There is no ¬ in font B Nazanin/OT:script=arab;language=dflt
-;mapping=persian-tex-text;!
 Missing character: There is no • in font B Nazanin/OT:script=arab;language=dflt
 ;mapping=persian-tex-text;!
 Missing character: There is no • in font B Nazanin/OT:script=arab;language=dflt
 ;mapping=persian-tex-text;!
 Missing character: There is no • in font B Nazanin/OT:script=arab;language=dflt
 ;mapping=persian-tex-text;!
-Missing character: There is no ¬ in font B Nazanin/OT:script=arab;language=dflt
+Missing character: There is no • in font B Nazanin/OT:script=arab;language=dflt
 ;mapping=persian-tex-text;!
 Missing character: There is no • in font B Nazanin/OT:script=arab;language=dflt
 ;mapping=persian-tex-text;!
-Missing character: There is no ¬ in font B Nazanin/OT:script=arab;language=dflt
-;mapping=persian-tex-text;!
 Missing character: There is no • in font B Nazanin/OT:script=arab;language=dflt
-;mapping=persian-tex-text;!
-Missing character: There is no ¬ in font B Nazanin/OT:script=arab;language=dflt
-;mapping=persian-tex-text;!
-Missing character: There is no • in font B Nazanin/OT:script=arab;language=dflt
-;mapping=persian-tex-text;!
-Missing character: There is no ¬ in font B Nazanin/OT:script=arab;language=dflt
 ;mapping=persian-tex-text;!
 Missing character: There is no • in font B Nazanin/OT:script=arab;language=dflt
 ;mapping=persian-tex-text;!
@@ -933,7 +923,7 @@ Package rerunfilecheck Info: File `Phase1-Report.out' has not changed.
 Here is how much of TeX's memory you used:
  16218 strings out of 412095
  298379 string characters out of 2847042
- 847182 words of memory out of 3000000
+ 845182 words of memory out of 3000000
  35565 multiletter control sequences out of 15000+200000
  404919 words of font info for 58 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
