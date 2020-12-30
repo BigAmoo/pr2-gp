@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 13:12
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  30 DEC 2020 13:28
 entering extended mode
 **./Phase1-Report.tex
 (Phase1-Report.tex
@@ -342,65 +342,69 @@ apping=tex-text;"
 
 )
 
-Package fontspec Info: Could not resolve font "B Nazanin/I" (it probably
+Package fontspec Info: Could not resolve font "BNazanin/I" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: Font family 'BNazanin(0)' created for font 'B Nazanin'
+Package fontspec Info: Font family 'BNazanin(0)' created for font 'BNazanin'
 (fontspec)             with options [Script=Persian,Ligatures=PersianTeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"B
-(fontspec)             Nazanin/OT:script=arab;language=dflt;mapping=persian-tex
--text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"BNazanin/OT:script=arab;language=dflt;mapping=persia
+n-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"B
-(fontspec)             Nazanin/B/OT:script=arab;language=dflt;mapping=persian-t
-ex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"BNazanin/B/OT:script=arab;language=dflt;mapping=pers
+ian-tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"B
-(fontspec)             Nazanin/BI/OT:script=arab;language=dflt;mapping=persian-
-tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"BNazanin/BI/OT:script=arab;language=dflt;mapping=per
+sian-tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
  (Phase1-Report.aux)
 \openout1 = `Phase1-Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-0.
+6.
 
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
 
 [1
 
-] (Phase1-Report.aux) ) 
+] [2] (Phase1-Report.aux) ) 
 Here is how much of TeX's memory you used:
- 5214 strings out of 412095
- 137738 string characters out of 2847042
- 524699 words of memory out of 3000000
- 24775 multiletter control sequences out of 15000+200000
- 403574 words of font info for 45 fonts, out of 3000000 for 9000
+ 5238 strings out of 412095
+ 138540 string characters out of 2847042
+ 544699 words of memory out of 3000000
+ 24789 multiletter control sequences out of 15000+200000
+ 404543 words of font info for 55 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 95i,4n,106p,1061b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 95i,8n,106p,1060b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase1-Report.pdf (1 page).
+Output written on Phase1-Report.pdf (2 pages).
