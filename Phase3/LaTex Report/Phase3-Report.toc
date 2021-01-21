@@ -1,3 +1,8 @@
-\contentsline {section}{\numberline {1}\lr {Product Vision}}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}\textbf {مشتریان و کاربران هدف}}{3}{subsection.1.1}%
-\contentsline {section}{\numberline {2}\textbf {گزارش نحوه انجام پروژه}}{4}{section.2}%
+\contentsline {section}{\numberline {1}رسم فرایندها}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}فرایند ثبت نام}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}فرایند خرید}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}فرایند مرجوعی}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}گزارش نحوه انجام پروژه}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}جلسه \lr {post mortem}}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}\lr {Task board}}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}\lr {Burndown Chart}}{3}{subsection.2.3}%
