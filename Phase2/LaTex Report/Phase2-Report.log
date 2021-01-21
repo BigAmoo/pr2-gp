@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  17 JAN 2021 11:16
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  21 JAN 2021 11:44
 entering extended mode
 **./Phase2-Report.tex
 (Phase2-Report.tex
@@ -909,26 +909,26 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ] (Phase2-Report.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 2.
+(Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 2.
+(Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 2.
+(Font)              <6> on input line 3.
 )
 \tf@toc=\write4
 \openout4 = `Phase2-Report.toc'.
 
  [2] [3] [4] (Phase2-Report.aux)
 Package rerunfilecheck Info: File `Phase2-Report.out' has not changed.
-(rerunfilecheck)             Checksum: B135D05CE58601F61CDBAEE4626E0DD8;496.
+(rerunfilecheck)             Checksum: 9E8255CE1ECC2A6B0423D5A606E1C876;1969.
  ) 
 Here is how much of TeX's memory you used:
- 17593 strings out of 412095
- 324674 string characters out of 2847042
- 856492 words of memory out of 3000000
- 36906 multiletter control sequences out of 15000+200000
- 407679 words of font info for 70 fonts, out of 3000000 for 9000
+ 17602 strings out of 412095
+ 324820 string characters out of 2847042
+ 855492 words of memory out of 3000000
+ 36916 multiletter control sequences out of 15000+200000
+ 407671 words of font info for 69 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 85i,8n,93p,1077b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 85i,8n,93p,1077b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on Phase2-Report.pdf (4 pages).
