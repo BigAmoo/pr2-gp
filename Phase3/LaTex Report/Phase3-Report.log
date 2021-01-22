@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 19:46
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 20:09
 entering extended mode
 **./Phase3-Report.tex
 (Phase3-Report.tex
@@ -929,117 +929,122 @@ File: images/Error.png Graphic file (type bmp)
 File: images/Bizagi Register 1.png Graphic file (type bmp)
 <images/Bizagi Register 1.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 54--55
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 58--59
  [][][][][] 
  []
 
 File: images/Bizagi Register 2.png Graphic file (type bmp)
 <images/Bizagi Register 2.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 60--61
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 64--65
  [][][][][] 
  []
 
-[5]
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+[][]
+ []
+
+[5] [6]
 File: images/Bizagi Buy 1.png Graphic file (type bmp)
 <images/Bizagi Buy 1.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 73--74
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 94--95
  [][][][][] 
  []
 
 File: images/Bizagi Buy 2.png Graphic file (type bmp)
 <images/Bizagi Buy 2.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 79--80
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 100--101
  [][][][][] 
  []
 
-[6]
+[7]
 File: images/Bizagi Buy Sub-Process.png Graphic file (type bmp)
 <images/Bizagi Buy Sub-Process.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 86--87
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 107--108
  [][][][][] 
  []
 
 File: images/Bizagi Buy 3.png Graphic file (type bmp)
 <images/Bizagi Buy 3.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 92--93
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 113--114
  [][][][][] 
  []
 
 File: images/Bizagi Buy 4.png Graphic file (type bmp)
 <images/Bizagi Buy 4.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 98--99
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 119--120
  [][][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[7]
+[8]
 File: images/Bizagi Buy 5.png Graphic file (type bmp)
 <images/Bizagi Buy 5.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 105--106
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 126--127
  [][][][][] 
  []
 
-[8]
+[9]
 File: images/Bizagi Return 1.png Graphic file (type bmp)
 <images/Bizagi Return 1.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 118--119
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 139--140
  [][][][][] 
  []
 
 File: images/Bizagi Return 2.png Graphic file (type bmp)
 <images/Bizagi Return 2.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 124--125
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 145--146
  [][][][][] 
  []
 
-[9]
+[10]
 File: images/Bizagi Return 3.png Graphic file (type bmp)
 <images/Bizagi Return 3.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 131--132
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 152--153
  [][][][][] 
  []
 
 File: images/Bizagi Return 4.png Graphic file (type bmp)
 <images/Bizagi Return 4.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 137--138
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 158--159
  [][][][][] 
  []
 
-[10]
+[11]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 150.
- [11]
+(Font)              <5> on input line 171.
+ [12]
 File: images/screenshot_7.png Graphic file (type bmp)
 <images/screenshot_7.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 160--161
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 181--182
  [][][][][] 
  []
 
 File: images/screenshot_1.png Graphic file (type bmp)
 <images/screenshot_1.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 167--168
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 188--189
  [][][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[12] [13] (Phase3-Report.aux)
+[13] [14] (Phase3-Report.aux)
 Package rerunfilecheck Info: File `Phase3-Report.out' has not changed.
 (rerunfilecheck)             Checksum: 078C5DB6D01A9215B9BB551D92BB54BD;923.
  ) 
@@ -1052,4 +1057,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  85i,8n,93p,1077b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase3-Report.pdf (13 pages).
+Output written on Phase3-Report.pdf (14 pages).
