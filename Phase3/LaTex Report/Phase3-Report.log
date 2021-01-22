@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  21 JAN 2021 11:52
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 13:43
 entering extended mode
 **./Phase3-Report.tex
 (Phase3-Report.tex
@@ -918,17 +918,38 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `Phase3-Report.toc'.
 
- [2] [3] (Phase3-Report.aux)
+ [2]
+File: images/screenshot_7.png Graphic file (type bmp)
+<images/screenshot_7.png>
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 48--49
+ [][][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/screenshot_1.png Graphic file (type bmp)
+<images/screenshot_1.png>
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 55--56
+ [][][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3] [4] [5] (Phase3-Report.aux)
 Package rerunfilecheck Info: File `Phase3-Report.out' has not changed.
-(rerunfilecheck)             Checksum: E82EBA9417FADD3E98A50D793B3AA385;1116.
+(rerunfilecheck)             Checksum: 228A66811930DF3118071F9710C8E278;1078.
  ) 
 Here is how much of TeX's memory you used:
- 17596 strings out of 412095
- 324700 string characters out of 2847042
- 853492 words of memory out of 3000000
- 36910 multiletter control sequences out of 15000+200000
+ 17614 strings out of 412095
+ 325070 string characters out of 2847042
+ 856492 words of memory out of 3000000
+ 36925 multiletter control sequences out of 15000+200000
  407671 words of font info for 69 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 85i,8n,93p,1077b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 85i,8n,93p,1077b,347s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase3-Report.pdf (3 pages).
+Output written on Phase3-Report.pdf (5 pages).

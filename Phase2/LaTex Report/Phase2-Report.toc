@@ -9,5 +9,4 @@
 \contentsline {subsection}{\numberline {3.3}فرایند مرجوعی}{3}{subsection.3.3}%
 \contentsline {section}{\numberline {4}گزارش نحوه انجام پروژه}{4}{section.4}%
 \contentsline {subsection}{\numberline {4.1}جلسه \lr {post mortem}}{4}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}\lr {Task board}}{4}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}\lr {Burndown Chart}}{4}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.2}\lr {Task board and Burndown Chart}}{5}{subsection.4.2}%
