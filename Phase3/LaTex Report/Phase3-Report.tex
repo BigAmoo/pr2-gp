@@ -28,104 +28,146 @@
 \pagebreak
 \section{رسم فرایندها} \label{section.function}
 
-\subsection{فرایند ثبت نام} \label{section.function.register}
-	
+\textbf{نکته:}
+برای گرفتن خروجی به فرمت \lr{image} در نرم افزار بیزاجی مشکلی که وجود دارد این است که حروف فارسی را به خوبی پشتیبانی نمی کند و در نتیجه کلمات جا به جا شده و برعکس نشان داده می شوند.\\
+خروجی \lr{pdf} و \lr{microsoft word}نیز مشکل دارد و با ارور زیر مواجه می شود:
 	\begin{figure}[h!]
 		\begin{center}
-			\includegraphics[width=14cm]{images/Bizagi Register 1.png}	
+			\includegraphics[width=10cm]{images/Error.png}	
 		\end{center}
-		\caption{ثبت نام - 1}
+		\caption{پیام خطا}
 	\end{figure}
-	\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=14cm]{images/Bizagi Register 2.png}	
-		\end{center}
-		\caption{ثبت نام - 2}
-	\end{figure}
-	
-	\textbf{توضیحات}
-	
-	
+
+
+به همین علت به صورت اسکرین شات عکس های پروژه را در گزارش آورده ایم.تنها خروجی ممکن خروجی به ویزیو بوده است که آن را نیز در فایل \lr{zip} خروجی های بیزاجی پروژه آورده ایم.
+
+
+مشکل دیگری که وجود دارد این است که درون فایل \lr{note} هایی وجود دارد که در آن ها متن هایی نوشته شده است اما نرم افزار این متن ها را به طور کامل نمایش نمی دهد و تنها راه دیدن آن ها باز کردن فایل و کلیک روی آن هاست.
+
+
+در کل فرآیندها در غالب چهار \lr{pool} که عبارت اند از \underline{مشتری }و \underline{سامانه }و \underline{فروشگاه} و \underline{پیک}، رسم شده اند. منظور از پیک و مشتری مشخص است اما منظور از فروشگاه همان صاحب و کارکنان فروشگاه است و منظور از سامانه تمام سیستم است که هم سایت را شامل می شود و هم دفتر یا جایی که به صورت حضوری افراد در آن جا کار می کنند.
+
+
+در کل فرض شده که اکتورها در حین انجام فرآیند از پشیمان نمی شوند یعنی بین کار از سامانه بیرون نمی روند یا اگر حضوری مراجعه کردند بدون تکمیل شدن فرآیند، دفتر را ترک نمی کنند.
 	\pagebreak
 
-\subsection{فرایند خرید} \label{section.function.buy}
-	\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=14cm]{images/Bizagi Buy 1.png}	
-		\end{center}
-		\caption{خرید - 1}
-	\end{figure}
-	\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=14cm]{images/Bizagi Buy 2.png}	
-		\end{center}
-		\caption{خرید - 2}
-	\end{figure}
-	\pagebreak
-	\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=14cm]{images/Bizagi Buy Sub-Process.png}	
-		\end{center}
-		\caption{خرید - \lr{sub-process}}
-	\end{figure}
-	\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=14cm]{images/Bizagi Buy 3.png}	
-		\end{center}
-		\caption{خرید - 3}
-	\end{figure}
-	\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=14cm]{images/Bizagi Buy 4.png}	
-		\end{center}
-		\caption{خرید - 4}
-	\end{figure}
-	\pagebreak
-	\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=14cm]{images/Bizagi Buy 5.png}	
-		\end{center}
-		\caption{خرید - 5}
-	\end{figure}
+	\subsection{فرایند ثبت نام} \label{section.function.register}
+		
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Register 1.png}	
+			\end{center}
+			\caption{ثبت نام - 1}
+		\end{figure}
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Register 2.png}	
+			\end{center}
+			\caption{ثبت نام - 2}
+		\end{figure}
+		
+		\textbf{توضیحات}
+		
+		
+		در ابتدا باید ببییم که کدام یک از مشتری یا پیک یا فروشگاه قصد ثبت نام دارند و برای هر کدام فرایند منحصر به خودش تعریف شده است.
+		
+		\textbf{مشتری}
+		
+		ابتدا مشتری باید ایمیل یا شماره موبایل خود را وارد کند. بعد از ان مشخصات خود را تکمیل می کند و اگر با موبایل ثبت نام کرده بود برایش پیامک تایید فرستاده می شود و در غیر این صورت برایش ایمیل تایید فرستاده می شود.\\
+		
+		
+		
+		\textbf{فروشگاه}
+		
+		
+		صاحب فروشگاه باید حضوری مراجعه کرده و پس از تکمیل اطلاعات که در آن آدرس و ساعت کاری فروشگاه نیز هست، باید قرارداد ببندد که در این صورت یک حساب به صاحب فروشگاه داده می شود که بتواند کالاها و مشخصات آن ها را در آن جا بنویسد یا ویرایش کند.
+		
+		\textbf{پیک}
+		
+		
+		پیک باید اول به صورت حضوری مراجعه کرده و اطلاعات خود و وسیله نقلیه اش را تکمیل کند سپس اگر وسیله ای برای ردیابی مکان داشت که ثبت نامش تکمیل می شود اما اگر نداشت باید برود و یکی تهیه کند.
+		\pagebreak
 	
-	\textbf{توضیحات}
+	\subsection{فرایند خرید} \label{section.function.buy}
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Buy 1.png}	
+			\end{center}
+			\caption{خرید - 1}
+		\end{figure}
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Buy 2.png}	
+			\end{center}
+			\caption{خرید - 2}
+		\end{figure}
+		\pagebreak
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Buy Sub-Process.png}	
+			\end{center}
+			\caption{خرید - \lr{sub-process}}
+		\end{figure}
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Buy 3.png}	
+			\end{center}
+			\caption{خرید - 3}
+		\end{figure}
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Buy 4.png}	
+			\end{center}
+			\caption{خرید - 4}
+		\end{figure}
+		\pagebreak
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Buy 5.png}	
+			\end{center}
+			\caption{خرید - 5}
+		\end{figure}
+		
+		\textbf{توضیحات}
+		
+		
+		ابتدا کاربر وارد سامانه می شود. سپس لیستی از فروشگاه های نزدیک و هزینه ارسال با پیک به وی نشان داده می شود.سپس فرد ااگر لیست خریدی را از قبل ذخیره داشت می رود و سبد خریدش را انتخاب می کند تا به مرحله ی تایید سبد برسد. اما اگر لیست خرید ذخیره شده نداشت آنگاه از بین فروشگاه ها یکی را انتخاب می کند و بعد سامانه لیست کالاهای فروشگاه را به او نشان می دهد سپس فرد کالای مورد نیازش را در فروشگاه جستجو می کند. اگر پیدا نکرد دوباره به قسمت انتخاب فروشگاه برمی گردد ولی اگر کالای مورد نیازش را یافت روی آیکون سبد خرید کلیک می کند و سبد خریدش به او نشان داده می شود و او هر تعداد کالایی را که خواست در آن وارد می کند. سپس نوبت مرحله ی تایید سبد خرید است. در این مرحله سامانه باید چک کند که تمامی کالاهای درخواستی در فروشگاه موجود هست یا نه و اینکه زمان سفارش در محدوده زمانی فروشگاه می باشد یا خیر.اگر تایید نشد پیام خطایی به کاربر نشان داده می شود و دوباره به او لیست کالاهای فروشگاه نمایش داده می شود ولی اگر تایید شود کاربر به صفحه ی درگاه پرداخت اینترنتی انتقال می یابد. سپس او باید  پرداخت را انجام دهد. این مرحله در نمودار با نام وارد کردن مبلغ خرید آمده است. سپس سامانه باید ببیند که پرداخت تایید می شود یا خیر. اگر تایید نشود که پیام توقف عملیات به کاربر نشان داده می شود و لیست ذخیره شده و عملیات به پایان می رسد اما اگر پرداخت موفقیت آمیز بود سامانه به دنبال نزدیک ترین پیک موتوری می گردد و همزمان لیست سفارش مشتری را برای فروشگاه می فرستد و فروشگاه نیز این سفارش را آماده کرده و منتظر پیک می ماند. بعد از اینکه نزدیک ترین پیک در دسترس پیدا شد درخواستی برایش ارسال می شود و اگر پیک این درخواست را رد کند که دوباره جستجویی دیگر انجام می گیرد برای پیکی دیگر که نزدیک و در دسترس باشد ولی اگر درخواست را قبول کرد اطلاعات برایش ارسال می شود و او نیز به فروشگاه می رود تا سفارش را تحویل گیرد. سپس به آدرس مشتری می رود و سفارش را به او تحویل می دهد. مشتری این سفارش را تحویل گرفته و فرض شده است که هم به فروشگاه امتیاز می دهد و هم نظر ارسال می کند و هم به پیک امتیاز می دهد. سپس سامانه این امتیازات و نظرات را ذخیره می کند و این فرایند تمام می شود.
+		\pagebreak
 	
-	
-	\pagebreak
-\subsection{فرایند مرجوعی} \label{section.function.return}
-
-	\begin{figure}[h!]
-	\begin{center}
-		\includegraphics[width=14cm]{images/Bizagi Return 1.png}	
-	\end{center}
-	\caption{مرجوعی - 1}
-\end{figure}
-\begin{figure}[h!]
-	\begin{center}
-		\includegraphics[width=14cm]{images/Bizagi Return 2.png}	
-	\end{center}
-	\caption{مرجوعی - 2}
-\end{figure}
-\pagebreak
-\begin{figure}[h!]
-	\begin{center}
-		\includegraphics[width=14cm]{images/Bizagi Return 3.png}	
-	\end{center}
-	\caption{مرجوعی - 3}
-\end{figure}
-\begin{figure}[h!]
-	\begin{center}
-		\includegraphics[width=14cm]{images/Bizagi Return 4.png}	
-	\end{center}
-	\caption{مرجوعی - 4}
-\end{figure}
-
-\textbf{توضیحات}
-
-
-در ابتدا مشتری وارد حساب کاربری خودش می شود. لیست خریدی که داشته را انتخاب می کند. کالایی را که می خواهد مرجوع بزند انتخاب می کند. مشخصات کالا، دلایل پس دادن آن و اطلاعات زمانی و مکانی پس دادن کالا را مشخص می کند. در صورت عدم موافقت با درخواست و نداشتن شرایط لازم برای پس دادن کالا درخواست رد می شود. در صورت موافقت سامانه به دنبال نزدیک ترین پیک می رود و همچنین اطلاعات کالای مرجوعی را به صاحب فروشگاهی که محصول را فروخته بود می دهد. نزدیک ترین پیک که پیدا شد مشخصات کالای مرجوعی برای او ارسال می شود در صورت عدم موافقت او سامانه به دنبال نزدیک ترین پیک بعدی می رود. در صورت موافقت پیک به مکان مورد نظر مشتری در زمان تعیین شده از قبل می رود تا کالای مرجوعی را تحویل گیرد. فروشگاه مبلغ کالای مرجوعی را برای حساب سامانه واریز می کند. سامانه پول دریافتی را برای حساب مشتری واریز می کند. پس از اتمام واریز پول و رفتن پیک و تحویل کالای مرجوعی آن کالای مرجوعی به فروشگاه برگردانده می شود.
-
-\pagebreak
+	\subsection{فرایند مرجوعی} \label{section.function.return}
+		
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Return 1.png}	
+			\end{center}
+			\caption{مرجوعی - 1}
+		\end{figure}
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Return 2.png}	
+			\end{center}
+			\caption{مرجوعی - 2}
+		\end{figure}
+		\pagebreak
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Return 3.png}	
+			\end{center}
+			\caption{مرجوعی - 3}
+		\end{figure}
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Bizagi Return 4.png}	
+			\end{center}
+			\caption{مرجوعی - 4}
+		\end{figure}
+		
+		\textbf{توضیحات}
+		
+		
+		در ابتدا مشتری وارد حساب کاربری خودش می شود. لیست خریدی که داشته را انتخاب می کند. کالایی را که می خواهد مرجوع بزند انتخاب می کند. مشخصات کالا، دلایل پس دادن آن و اطلاعات زمانی و مکانی پس دادن کالا را مشخص می کند. در صورت عدم موافقت با درخواست و نداشتن شرایط لازم برای پس دادن کالا درخواست رد می شود. در صورت موافقت سامانه به دنبال نزدیک ترین پیک می رود و همچنین اطلاعات کالای مرجوعی را به صاحب فروشگاهی که محصول را فروخته بود می دهد. نزدیک ترین پیک که پیدا شد مشخصات کالای مرجوعی برای او ارسال می شود در صورت عدم موافقت او سامانه به دنبال نزدیک ترین پیک بعدی می رود. در صورت موافقت پیک به مکان مورد نظر مشتری در زمان تعیین شده از قبل می رود تا کالای مرجوعی را تحویل گیرد. فروشگاه مبلغ کالای مرجوعی را برای حساب سامانه واریز می کند. سامانه پول دریافتی را برای حساب مشتری واریز می کند. پس از اتمام واریز پول و رفتن پیک و تحویل کالای مرجوعی آن کالای مرجوعی به فروشگاه برگردانده می شود.
+		
+		\pagebreak
 
 \section{گزارش نحوه انجام پروژه} \label{section.report}
 یک روز بعد از اتمام فاز اول جلسه ی پس از مرگ \footnote{\lr{post mortem}} در محیط اسکایپ \footnote{\lr{Skype}}انجام شد و پس از آن جلسه و باتوجه به نتایج بدست آمده از آن، اعضای گروه تصمیم گرفتند که کل این فاز را همگی با هم و در یک مرحله رسم کنند. به این ترتیب که \underline{محراب کشاورز گیلده} نرم افزار بیزاجی\footnote{\lr{Bizagi}} را نصب کند و پس از آن هر سه نمودار در یک روز در یک جلسه سه نفره کشیده شود. روزی که قرار به کشیدن فرایندها شد متاسفانه نرم افزار بسیار مشکل داشت و ما هر چه کردیم نتوانستیم که فایل خود را ذخیره کنیم به همین دلیل مجبور شدیم که فرایندها را در نرم افزار ویزیو\footnote{\lr{Visio}} رسم کنیم. بعد از این که مشکل نرم افزار اصلی برطرف شد، \underline{محراب کشاورز گیلده} فرایندهای رسم شده در ویزیو را در بیزاجی کشید و خروجی های مورد نیاز را گرفت. بعد از آن گزارش لاتک نیز نوشته شده و در جلسه ای با حضور همه ی اعضا، فایل مربوطه برای ارسال آماده شد و در کوئرا\footnote{\lr{https://quera.ir/}} بارگذاری شد.
@@ -134,30 +176,30 @@
 \textbf{نکته :} متاسفانه در این فاز نیز مانند فاز قبل اعضای گروه به \lr{commit} و \lr{push} کردن مطالب اکتفا کردند و فراموش کردند که مشکلی\footnote{\lr{issue}} که به آن ها اختصاص داده شده بود را بعد از انجام دادن ببندند به همین دلیل تمامی مشکلات در گیت هاب توسط \underline{مهدی محسنی} و در یک زمان بسته شد اما این موضوع به این معنی نیست که همه ی آن ها در یک روز انجام شده باشد. این مطلب حتی در جلسه ی پس از مرگ نیز ذکر شد اما باز هم اعضای گروه فراموش کردند.
 \pagebreak
 
-\subsection{\lr{Task board and Burndown Chart}} \label{section.report.taskBoard}
-
-\begin{figure}[h!]
-	\begin{center}
-		\includegraphics[width=14cm]{images/screenshot_7.png}	
-	\end{center}
-	\caption{ابتدای اسپرینت}
-\end{figure}
-
-\begin{figure}[h!]
-	\begin{center}
-		\includegraphics[width=14cm]{images/screenshot_1.png}
-	\end{center}
-	\caption{انتهای اسپرینت}
-\end{figure}
-
-
-%\begin{figure}[h!]
-%	\begin{center}
-%		\includegraphics[width=14cm]{images/Burn Down Chart.png}
+	\subsection{\lr{Task board and Burndown Chart}} \label{section.report.taskBoard}
+	
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/screenshot_7.png}	
+			\end{center}
+			\caption{ابتدای اسپرینت}
+		\end{figure}
 		
-%	\end{center}
-%	\caption{\lr{Burn Down Chart}}
-%\end{figure}
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/screenshot_1.png}
+			\end{center}
+			\caption{انتهای اسپرینت}
+		\end{figure}
+		
+		
+		%\begin{figure}[h!]
+		%	\begin{center}
+		%		\includegraphics[width=14cm]{images/Burn Down Chart.png}
+				
+		%	\end{center}
+		%	\caption{\lr{Burn Down Chart}}
+		%\end{figure}
 
 
 
