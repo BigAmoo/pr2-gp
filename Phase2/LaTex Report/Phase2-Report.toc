@@ -6,6 +6,6 @@
 \contentsline {section}{\numberline {3}نمودارهای توالی}{10}{section.3}%
 \contentsline {subsection}{\numberline {3.1}فرایند ثبت نام}{10}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}فرایند خرید}{11}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}فرایند مرجوعی}{11}{subsection.3.3}%
-\contentsline {section}{\numberline {4}گزارش نحوه انجام پروژه}{12}{section.4}%
-\contentsline {subsection}{\numberline {4.1}\lr {Task board and Burndown Chart}}{13}{subsection.4.1}%
+\contentsline {subsection}{\numberline {3.3}فرایند مرجوعی}{12}{subsection.3.3}%
+\contentsline {section}{\numberline {4}گزارش نحوه انجام پروژه}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}\lr {Task board and Burndown Chart}}{14}{subsection.4.1}%
