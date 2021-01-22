@@ -18,97 +18,132 @@
 \pagebreak
 \tableofcontents
 \pagebreak
+\listoffigures
+\pagebreak
 \normalsize	
 
 \section{نمودار موردکاربرد} \label{section.useCase}
+	\begin{figure}[h!]
+		\begin{center}
+			\includegraphics[width=12cm]{images/Use Case.png}
+			
+		\end{center}
+		\caption{نمودار مورد کاربرد}
+	\end{figure}
+ 
 
-
+\textbf{توضیحات :} 
+	\begin{enumerate}
+		\item 
+		آکتورهای مشتری جدید و مشتری ثبت نام شده را با یک رابطه ارث بری به آکتور والد مشتری متصل می کنیم.
+		\item
+		فرض بر این بوده که مشتری تنها بعد ثبت نام میتواند لیست فروشگاه ها و کالاها را ببیند.
+		\item
+		منظور از یوزکیس بازیابی سبد خرید، بعد از پرداخت ناموفق است.
+		\item
+		فرض بر این بوده تمام دیتاها از جمله موجودی کالاها، جزییات حساب ها، تاریخچه پرداخت ها و غیره در دیتابیس شرکت ذخیره می شود.
+		\item
+		منظور از یوزکیس دریافت مالی از شرکت دریافت مبلغ فروش توسط فروشگاه،درآمد پیک از تحویل کالا و مبلغ بازگشتی به مشتری در صورت مرجوع کردن کالا می باشد.
+		\item
+		آکتور واحد هماهنگی ماموریت ها وظیفه دریافت اطلاعات پیک ها از دیتابیس شرکت، پیدا کردن نزدیکترین پیکی که ماموریت را بپذیرد، و سپردن ماموریت دریافت و تحویل کالا به پیک را دارد.
+	\end{enumerate}
+\pagebreak
 \section{نمودارهای فعالیت} \label{section.activity}
-
-
-\subsection{فرایند ثبت نام} \label{section.activity.register}
-
-
-\subsection{فرایند خرید} \label{section.activity.buy}
-
-
-\subsection{فرایند مرجوعی} \label{section.activity.return}
-
+	\subsection{فرایند ثبت نام} \label{section.activity.register}
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Register Activity Diagram.png}
+			\end{center}
+			\caption{نمودار فعالیت ثبت نام}
+		\end{figure}
+	
+	\subsection{فرایند خرید} \label{section.activity.buy}
+	
+	
+	
+	\subsection{فرایند مرجوعی} \label{section.activity.return}
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=14cm]{images/Return Activity Diagram.png}
+			\end{center}
+			\caption{نمودار فعالیت مرجوعی}
+		\end{figure}
+\pagebreak
 
 \section{نمودارهای توالی} \label{section.sequence}
 
-
-\subsection{فرایند ثبت نام} \label{section.sequence.register}
-
-
-\subsection{فرایند خرید} \label{section.sequence.buy}
-
-
-\subsection{فرایند مرجوعی} \label{section.sequence.return}
-
-
+	
+	\subsection{فرایند ثبت نام} \label{section.sequence.register}
+	
+	
+	\subsection{فرایند خرید} \label{section.sequence.buy}
+	
+	
+	\subsection{فرایند مرجوعی} \label{section.sequence.return}
+	
+	
 
 \pagebreak
 
 \section{گزارش نحوه انجام پروژه} \label{section.report}
-
-\subsection{جلسه \lr{post mortem}} \label{section.report.postMortem}
-
-\pagebreak
-
-\subsection{\lr{Task board and Burndown Chart}} \label{section.report.taskBoard}
-		\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=9cm]{images/screenshot_1.png}	
-		\end{center}
-		\caption{ابتدای اسپرینت-بخش اول}
-	\end{figure}
 	
-	\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=9cm]{images/screenshot_2.png}
-		\end{center}
-		\caption{ابتدای اسپرینت-بخش دوم}
-	\end{figure}
-		\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=9cm]{images/screenshot_3.png}	
-		\end{center}
-		\caption{ابتدای اسپرینت-بخش سوم}
-	\end{figure}
+	\subsection{جلسه \lr{post mortem}} \label{section.report.postMortem}
 	
-	\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=9cm]{images/screenshot_4.png}
-		\end{center}
-		\caption{انتهای اسپرینت-بخش اول}
-	\end{figure}
-		\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=9cm]{images/screenshot_5.png}	
-		\end{center}
-		\caption{انتهای اسپرینت-بخش دوم}
-	\end{figure}
+	\pagebreak
 	
-	\begin{figure}[h!]
-		\begin{center}
-			\includegraphics[width=9cm]{images/screenshot_6.png}
-		\end{center}
-		\caption{انتهای اسپرینت-بخش سوم}
-	\end{figure}
-
-\pagebreak
-
-
-\begin{figure}[h!]
-	\begin{center}
-		\includegraphics[width=14cm]{images/Burn Down Chart.png}
+	\subsection{\lr{Task board and Burndown Chart}} \label{section.report.taskBoard}
+			\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=9cm]{images/screenshot_1.png}	
+			\end{center}
+			\caption{ابتدای اسپرینت-بخش اول}
+		\end{figure}
 		
-	\end{center}
-	\caption{\lr{Burn Down Chart}}
-\end{figure}
-
-
-
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=9cm]{images/screenshot_2.png}
+			\end{center}
+			\caption{ابتدای اسپرینت-بخش دوم}
+		\end{figure}
+			\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=9cm]{images/screenshot_3.png}	
+			\end{center}
+			\caption{ابتدای اسپرینت-بخش سوم}
+		\end{figure}
+		
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=9cm]{images/screenshot_4.png}
+			\end{center}
+			\caption{انتهای اسپرینت-بخش اول}
+		\end{figure}
+			\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=9cm]{images/screenshot_5.png}	
+			\end{center}
+			\caption{انتهای اسپرینت-بخش دوم}
+		\end{figure}
+		
+		\begin{figure}[h!]
+			\begin{center}
+				\includegraphics[width=9cm]{images/screenshot_6.png}
+			\end{center}
+			\caption{انتهای اسپرینت-بخش سوم}
+		\end{figure}
+	
+	\pagebreak
+	
+	
+	\begin{figure}[h!]
+		\begin{center}
+			\includegraphics[width=14cm]{images/Burn Down Chart.png}
+			
+		\end{center}
+		\caption{\lr{Burn Down Chart}}
+	\end{figure}
+	
+	
+	
 
 \end{document}

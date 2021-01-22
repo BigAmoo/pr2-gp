@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 13:48
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 14:37
 entering extended mode
 **./Phase2-Report.tex
 (Phase2-Report.tex
@@ -918,7 +918,32 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `Phase2-Report.toc'.
 
- [2] [3] [4]
+ [2] (Phase2-Report.lof)
+\tf@lof=\write5
+\openout5 = `Phase2-Report.lof'.
+
+ [3]
+File: images/Use Case.png Graphic file (type bmp)
+<images/Use Case.png>
+ [4]
+File: images/Register Activity Diagram.png Graphic file (type bmp)
+<images/Register Activity Diagram.png>
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 55--56
+ [][][][][] 
+ []
+
+File: images/Return Activity Diagram.png Graphic file (type bmp)
+<images/Return Activity Diagram.png>
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 67--68
+ [][][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5] [6] [7]
 File: images/screenshot_1.png Graphic file (type bmp)
 <images/screenshot_1.png>
 File: images/screenshot_2.png Graphic file (type bmp)
@@ -944,28 +969,28 @@ File: images/screenshot_6.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5]
+[8]
 File: images/Burn Down Chart.png Graphic file (type bmp)
 <images/Burn Down Chart.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 105--106
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 140--141
  [][][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6] [7] [8] (Phase2-Report.aux)
+[9] [10] [11] (Phase2-Report.aux)
 Package rerunfilecheck Info: File `Phase2-Report.out' has not changed.
 (rerunfilecheck)             Checksum: 00F1653C1820D9556E5A1DEAFFB5580B;1930.
  ) 
 Here is how much of TeX's memory you used:
- 17650 strings out of 412095
- 325923 string characters out of 2847042
- 854492 words of memory out of 3000000
- 36956 multiletter control sequences out of 15000+200000
+ 17675 strings out of 412095
+ 326579 string characters out of 2847042
+ 855492 words of memory out of 3000000
+ 36975 multiletter control sequences out of 15000+200000
  407671 words of font info for 69 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  85i,8n,93p,1077b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase2-Report.pdf (8 pages).
+Output written on Phase2-Report.pdf (11 pages).
