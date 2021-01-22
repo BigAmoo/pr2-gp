@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 20:09
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 20:45
 entering extended mode
 **./Phase3-Report.tex
 (Phase3-Report.tex
@@ -993,68 +993,68 @@ Overfull \hbox (8.33858pt too wide) in paragraph at lines 126--127
  [][][][][] 
  []
 
-[9]
+[9] [10]
 File: images/Bizagi Return 1.png Graphic file (type bmp)
 <images/Bizagi Return 1.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 139--140
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 141--142
  [][][][][] 
  []
 
 File: images/Bizagi Return 2.png Graphic file (type bmp)
 <images/Bizagi Return 2.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 145--146
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 147--148
  [][][][][] 
  []
 
-[10]
+[11]
 File: images/Bizagi Return 3.png Graphic file (type bmp)
 <images/Bizagi Return 3.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 152--153
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 154--155
  [][][][][] 
  []
 
 File: images/Bizagi Return 4.png Graphic file (type bmp)
 <images/Bizagi Return 4.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 158--159
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 160--161
  [][][][][] 
  []
 
-[11]
+[12]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 171.
- [12]
+(Font)              <5> on input line 173.
+ [13]
 File: images/screenshot_7.png Graphic file (type bmp)
 <images/screenshot_7.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 181--182
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 183--184
  [][][][][] 
  []
 
 File: images/screenshot_1.png Graphic file (type bmp)
 <images/screenshot_1.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 188--189
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 190--191
  [][][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13] [14] (Phase3-Report.aux)
+[14] [15] (Phase3-Report.aux)
 Package rerunfilecheck Info: File `Phase3-Report.out' has not changed.
 (rerunfilecheck)             Checksum: 078C5DB6D01A9215B9BB551D92BB54BD;923.
  ) 
 Here is how much of TeX's memory you used:
  17718 strings out of 412095
  327654 string characters out of 2847042
- 858492 words of memory out of 3000000
+ 859492 words of memory out of 3000000
  37010 multiletter control sequences out of 15000+200000
  407703 words of font info for 73 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 85i,8n,93p,1077b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 85i,8n,93p,1967b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase3-Report.pdf (14 pages).
+Output written on Phase3-Report.pdf (15 pages).
