@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 14:37
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 14:42
 entering extended mode
 **./Phase2-Report.tex
 (Phase2-Report.tex
@@ -936,7 +936,7 @@ Overfull \hbox (8.33858pt too wide) in paragraph at lines 55--56
 File: images/Return Activity Diagram.png Graphic file (type bmp)
 <images/Return Activity Diagram.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 67--68
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 72--73
  [][][][][] 
  []
 
@@ -973,7 +973,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: images/Burn Down Chart.png Graphic file (type bmp)
 <images/Burn Down Chart.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 140--141
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 145--146
  [][][][][] 
  []
 
