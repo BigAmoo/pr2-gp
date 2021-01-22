@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 14:42
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 14:50
 entering extended mode
 **./Phase2-Report.tex
 (Phase2-Report.tex
@@ -933,6 +933,7 @@ Overfull \hbox (8.33858pt too wide) in paragraph at lines 55--56
  [][][][][] 
  []
 
+[5]
 File: images/Return Activity Diagram.png Graphic file (type bmp)
 <images/Return Activity Diagram.png>
 
@@ -940,10 +941,7 @@ Overfull \hbox (8.33858pt too wide) in paragraph at lines 72--73
  [][][][][] 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[5] [6] [7]
+[6] [7] [8]
 File: images/screenshot_1.png Graphic file (type bmp)
 <images/screenshot_1.png>
 File: images/screenshot_2.png Graphic file (type bmp)
@@ -969,18 +967,18 @@ File: images/screenshot_6.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8]
+[9]
 File: images/Burn Down Chart.png Graphic file (type bmp)
 <images/Burn Down Chart.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 145--146
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 158--159
  [][][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9] [10] [11] (Phase2-Report.aux)
+[10] [11] [12] (Phase2-Report.aux)
 Package rerunfilecheck Info: File `Phase2-Report.out' has not changed.
 (rerunfilecheck)             Checksum: 00F1653C1820D9556E5A1DEAFFB5580B;1930.
  ) 
@@ -993,4 +991,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  85i,8n,93p,1077b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase2-Report.pdf (11 pages).
+Output written on Phase2-Report.pdf (12 pages).
