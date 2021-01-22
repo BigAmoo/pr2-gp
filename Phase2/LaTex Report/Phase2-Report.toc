@@ -8,5 +8,4 @@
 \contentsline {subsection}{\numberline {3.2}فرایند خرید}{8}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}فرایند مرجوعی}{8}{subsection.3.3}%
 \contentsline {section}{\numberline {4}گزارش نحوه انجام پروژه}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}جلسه \lr {post mortem}}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}\lr {Task board and Burndown Chart}}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.1}\lr {Task board and Burndown Chart}}{10}{subsection.4.1}%
