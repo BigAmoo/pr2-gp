@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 17:26
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 18:27
 entering extended mode
 **./Phase2-Report.tex
 (Phase2-Report.tex
@@ -933,32 +933,32 @@ Overfull \hbox (8.33858pt too wide) in paragraph at lines 55--56
  [][][][][] 
  []
 
-[5]
+[5] [6]
 File: images/Return Activity Diagram.png Graphic file (type bmp)
 <images/Return Activity Diagram.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 72--73
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 75--76
  [][][][][] 
  []
 
-[6]
+[7]
 File: images/Register Sequence Diagram (Customer).png Graphic file (type bmp)
 <images/Register Sequence Diagram (Customer).png>
 File: images/Register Sequence Diagram (Delivery & Shop).png Graphic file (type
  bmp)
 <images/Register Sequence Diagram (Delivery & Shop).png>
- [7]
+ [8]
 File: images/Return Sequence Diagram.png Graphic file (type bmp)
 <images/Return Sequence Diagram.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 121--122
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 128--129
  [][][][][] 
  []
 
-[8]
+[9]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 132.
- [9]
+(Font)              <5> on input line 139.
+ [10]
 File: images/screenshot_1.png Graphic file (type bmp)
 <images/screenshot_1.png>
 File: images/screenshot_2.png Graphic file (type bmp)
@@ -984,28 +984,28 @@ File: images/screenshot_6.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10]
+[11]
 File: images/Burn Down Chart.png Graphic file (type bmp)
 <images/Burn Down Chart.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 201--202
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 208--209
  [][][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11] [12] [13] (Phase2-Report.aux)
+[12] [13] [14] (Phase2-Report.aux)
 Package rerunfilecheck Info: File `Phase2-Report.out' has not changed.
 (rerunfilecheck)             Checksum: 9B3900C4592A851913626FAA3C064304;1774.
  ) 
 Here is how much of TeX's memory you used:
  17713 strings out of 412095
- 327894 string characters out of 2847042
+ 327895 string characters out of 2847042
  861492 words of memory out of 3000000
  37006 multiletter control sequences out of 15000+200000
  407703 words of font info for 73 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 85i,8n,93p,1077b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 85i,8n,93p,1852b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase2-Report.pdf (13 pages).
+Output written on Phase2-Report.pdf (14 pages).
