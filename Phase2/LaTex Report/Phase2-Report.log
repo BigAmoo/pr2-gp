@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 20:53
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 22:24
 entering extended mode
 **./Phase2-Report.tex
 (Phase2-Report.tex
@@ -977,7 +977,7 @@ File: images/Register Sequence Diagram (Customer).png Graphic file (type bmp)
 File: images/Register Sequence Diagram (Delivery & Shop).png Graphic file (type
  bmp)
 <images/Register Sequence Diagram (Delivery & Shop).png>
- [10]
+ [10] [11]
 File: images/Return Sequence Diagram.png Graphic file (type bmp)
 <images/Return Sequence Diagram.png>
 
@@ -985,10 +985,10 @@ Overfull \hbox (8.33858pt too wide) in paragraph at lines 153--154
  [][][][][] 
  []
 
-[11]
+[12]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 164.
- [12]
+(Font)              <5> on input line 174.
+ [13]
 File: images/screenshot_1.png Graphic file (type bmp)
 <images/screenshot_1.png>
 File: images/screenshot_2.png Graphic file (type bmp)
@@ -1014,18 +1014,18 @@ File: images/screenshot_6.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13]
+[14]
 File: images/Burn Down Chart.png Graphic file (type bmp)
 <images/Burn Down Chart.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 233--234
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 243--244
  [][][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14] [15] [16] (Phase2-Report.aux)
+[15] [16] [17] (Phase2-Report.aux)
 Package rerunfilecheck Info: File `Phase2-Report.out' has not changed.
 (rerunfilecheck)             Checksum: 9B3900C4592A851913626FAA3C064304;1774.
  ) 
@@ -1038,4 +1038,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  85i,8n,93p,1852b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase2-Report.pdf (16 pages).
+Output written on Phase2-Report.pdf (17 pages).

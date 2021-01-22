@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 22:27
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2020.12.29)  22 JAN 2021 22:33
 entering extended mode
-**./Phase3-Report.tex
-(Phase3-Report.tex
+**./Phase1-Report.tex
+(Phase1-Report.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-07> xparse <2020-03-03>
 (C:\Users\Mahdi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -838,8 +838,8 @@ ian-tex-text;"
 sian-tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-) (firstpage.tex) (Phase3-Report.aux)
-\openout1 = `Phase3-Report.aux'.
+) (firstpage.tex) (Phase1-Report.aux)
+\openout1 = `Phase1-Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -887,9 +887,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
 LaTeX Info: Redefining \nameref on input line 16.
- (Phase3-Report.out) (Phase3-Report.out)
+ (Phase1-Report.out) (Phase1-Report.out)
 \@outlinefile=\write3
-\openout3 = `Phase3-Report.out'.
+\openout3 = `Phase1-Report.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfigure package is loaded.
@@ -907,7 +907,7 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ) [1
 
-] (Phase3-Report.toc
+] (Phase1-Report.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -916,155 +916,47 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
 )
 \tf@toc=\write4
-\openout4 = `Phase3-Report.toc'.
+\openout4 = `Phase1-Report.toc'.
 
- [2] (Phase3-Report.lof)
-\tf@lof=\write5
-\openout5 = `Phase3-Report.lof'.
-
- [3]
-File: images/Error.png Graphic file (type bmp)
-<images/Error.png>
- [4]
-File: images/Bizagi Register 1.png Graphic file (type bmp)
-<images/Bizagi Register 1.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 58--59
- [][][][][] 
- []
-
-File: images/Bizagi Register 2.png Graphic file (type bmp)
-<images/Bizagi Register 2.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 64--65
- [][][][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
-[][]
- []
-
-[5] [6]
-File: images/Bizagi Buy 1.png Graphic file (type bmp)
-<images/Bizagi Buy 1.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 94--95
- [][][][][] 
- []
-
-File: images/Bizagi Buy 2.png Graphic file (type bmp)
-<images/Bizagi Buy 2.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 100--101
- [][][][][] 
- []
-
-[7]
-File: images/Bizagi Buy Sub-Process.png Graphic file (type bmp)
-<images/Bizagi Buy Sub-Process.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 107--108
- [][][][][] 
- []
-
-File: images/Bizagi Buy 3.png Graphic file (type bmp)
-<images/Bizagi Buy 3.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 113--114
- [][][][][] 
- []
-
-File: images/Bizagi Buy 4.png Graphic file (type bmp)
-<images/Bizagi Buy 4.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 119--120
- [][][][][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8]
-File: images/Bizagi Buy 5.png Graphic file (type bmp)
-<images/Bizagi Buy 5.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 126--127
- [][][][][] 
- []
-
-[9] [10]
-File: images/Bizagi Return 1.png Graphic file (type bmp)
-<images/Bizagi Return 1.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 141--142
- [][][][][] 
- []
-
-File: images/Bizagi Return 2.png Graphic file (type bmp)
-<images/Bizagi Return 2.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 147--148
- [][][][][] 
- []
-
-[11]
-File: images/Bizagi Return 3.png Graphic file (type bmp)
-<images/Bizagi Return 3.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 154--155
- [][][][][] 
- []
-
-File: images/Bizagi Return 4.png Graphic file (type bmp)
-<images/Bizagi Return 4.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 160--161
- [][][][][] 
- []
-
-[12]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 173.
- [13]
-File: images/screenshot_7.png Graphic file (type bmp)
-<images/screenshot_7.png>
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 183--184
- [][][][][] 
- []
-
+ [2] [3] [4] [5] [6] [7] [8] [9]
 File: images/screenshot_1.png Graphic file (type bmp)
 <images/screenshot_1.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 190--191
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 249--250
+ [][][][][] 
+ []
+
+File: images/screenshot_2.png Graphic file (type bmp)
+<images/screenshot_2.png>
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 256--257
  [][][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: images/Burn Down Chart 3.png Graphic file (type bmp)
-<images/Burn Down Chart 3.png>
+File: images/Burn Down Chart.png Graphic file (type bmp)
+<images/Burn Down Chart.png>
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 198--199
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 264--265
  [][][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14] [15] [16] (Phase3-Report.aux)
-Package rerunfilecheck Info: File `Phase3-Report.out' has not changed.
-(rerunfilecheck)             Checksum: 078C5DB6D01A9215B9BB551D92BB54BD;923.
+[10] [11] (Phase1-Report.aux)
+Package rerunfilecheck Info: File `Phase1-Report.out' has not changed.
+(rerunfilecheck)             Checksum: 51E733E88D5E717502A72D482586176A;2611.
  ) 
 Here is how much of TeX's memory you used:
- 17724 strings out of 412095
- 327827 string characters out of 2847042
- 859492 words of memory out of 3000000
- 37015 multiletter control sequences out of 15000+200000
- 407703 words of font info for 73 fonts, out of 3000000 for 9000
+ 17635 strings out of 412095
+ 325671 string characters out of 2847042
+ 864492 words of memory out of 3000000
+ 36944 multiletter control sequences out of 15000+200000
+ 407679 words of font info for 70 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 85i,8n,93p,1967b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 85i,8n,93p,1077b,457s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Phase3-Report.pdf (16 pages).
+Output written on Phase1-Report.pdf (11 pages).

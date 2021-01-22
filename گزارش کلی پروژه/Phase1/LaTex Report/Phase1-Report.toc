@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}\lr {Product Vision}}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}\textbf {مشتریان و کاربران هدف}}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}\textbf {حوزه های ارزش ذی نفعان}}{3}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}\textbf {مشتریان }}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}\textbf {فروشگاه ها }}{4}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}\textbf {پیک}}{4}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}\textbf {ویژگی های اصلی و منحصر به فروش محصول}}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}\lr {User Story}}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}\textbf {داستان کاربری مشتری}}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}\textbf {داستان کاربری صاحب فروشگاه}}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}\textbf {داستان کاربری پیک}}{7}{subsection.2.3}%
+\contentsline {section}{\numberline {3}\lr {Requirements and Constraints}}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}\textbf {نیازمندی های کاربردی}}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}\textbf { محدودیت ها }}{9}{subsection.3.2}%
+\contentsline {section}{\numberline {4}\textbf {گزارش نحوه انجام پروژه}}{10}{section.4}%
