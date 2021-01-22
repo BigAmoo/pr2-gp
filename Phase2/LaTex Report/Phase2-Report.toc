@@ -2,10 +2,10 @@
 \contentsline {section}{\numberline {2}نمودارهای فعالیت}{5}{section.2}%
 \contentsline {subsection}{\numberline {2.1}فرایند ثبت نام}{5}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}فرایند خرید}{6}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}فرایند مرجوعی}{6}{subsection.2.3}%
-\contentsline {section}{\numberline {3}نمودارهای توالی}{7}{section.3}%
-\contentsline {subsection}{\numberline {3.1}فرایند ثبت نام}{7}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}فرایند خرید}{8}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}فرایند مرجوعی}{8}{subsection.3.3}%
-\contentsline {section}{\numberline {4}گزارش نحوه انجام پروژه}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}\lr {Task board and Burndown Chart}}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {2.3}فرایند مرجوعی}{7}{subsection.2.3}%
+\contentsline {section}{\numberline {3}نمودارهای توالی}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}فرایند ثبت نام}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}فرایند خرید}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}فرایند مرجوعی}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}گزارش نحوه انجام پروژه}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}\lr {Task board and Burndown Chart}}{11}{subsection.4.1}%
